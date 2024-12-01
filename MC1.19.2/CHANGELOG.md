@@ -5,4 +5,4 @@
 
 ### ⛭ Miscellaneous
 
-* **main:** release 2.0.0 ([5a1144d](https://github.com/TN-TechNoob/TNVBP-Auto-Publish/commit/5a1144dfe3796876ceb1c66cee486f44867bb990))
+* **main:** release v2.0.0 ([196efa6](https://github.com/TN-TechNoob/TNVBP-Auto-Publish/commit/196efa682e34aef56f0cb98ae6aabd1026f4f6ff))
