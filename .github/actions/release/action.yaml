@@ -12,7 +12,7 @@ inputs:
     required: true
   upload-curse:
     description: "Should the Modpack Be Uploaded to CurseForge"
-    required: true
+    required: false
 
   MODRINTH_TOKEN:
     required: false
